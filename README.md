@@ -1,0 +1,4 @@
+- olá, meu nome é Ana.
+- estou aprendendo a programar e fazer sites.
+- sou alura do alura.
+- meu objetivo é apender a fazer sites.
